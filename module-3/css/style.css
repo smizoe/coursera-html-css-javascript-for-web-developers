@@ -3,7 +3,7 @@
 }
 
 
-#food-content > div {
+#food-content > .row > div {
     margin-top: 10px;
     background-color: darkgrey;
 }

@@ -1,0 +1,9 @@
+.navbar-collapse > ul > li:hover {
+    background-color: darkgrey;
+}
+
+
+#food-content > div {
+    margin-top: 10px;
+    background-color: darkgrey;
+}
